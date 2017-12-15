@@ -43,7 +43,7 @@ public class ExampleNavigator
 
         while (true) {
             try {
-                if (dots == 6) {
+                if (dots == 3) {
                     break;
                 }
 
